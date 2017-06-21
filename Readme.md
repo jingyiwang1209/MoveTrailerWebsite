@@ -1,0 +1,1 @@
+Open your browser and load the fresh_mummy.html file by dragging the file to the body of your browser.
