@@ -1,5 +1,5 @@
 class Movie():
-    """Taking in properties of a movie """
+    """Initializing properties of a movie """
     def __init__(self, movie_title, movie_time,
                  movie_actors, movie_storyline, movie_poster, movie_trailer):
         self.title = movie_title
